@@ -1,5 +1,5 @@
 # ImportantSitesAndLinks
-Important sites and links
+<h2>Important sites and links</h2>
 
 <h3>Web Designing Links</h3>
 
@@ -13,7 +13,7 @@ Important sites and links
 
 <a href="https://coolors.co/" title="This will give color palettes/schemes">Coolors</a> - This will give color palettes/schemes
 
-<a href="http://www.cssfontstack.com/" title="WebSiteDescription">CSS Font Stack/</a> - Fonts
+<a href="http://www.cssfontstack.com/" title="WebSiteDescription">CSS Font Stack</a> - Fonts
 
 
 <hr/>
