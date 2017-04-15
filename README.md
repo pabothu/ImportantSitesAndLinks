@@ -15,5 +15,6 @@
 
 <a href="http://www.cssfontstack.com/" title="WebSiteDescription">CSS Font Stack</a> - Fonts
 
+<a href="http://fontawesome.io/" title="Font Icons and give many example usage including accessibility">Font Awesome</a> - Font Icons and give many example usage including accessibility
 
 <hr/>
